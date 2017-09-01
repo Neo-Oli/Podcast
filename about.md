@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Vom Ende des Regenbogens auf einem pinkfarbenen Einhorn in unsere Realität geritten um unser Blickfeld zu erweitern, erleuchten sie uns mit ihren getoasteten Erkenntnissen.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Oliver Schmidhauser und Till Wegmüller haben das richtige Mindset um sich der Herausforderung eines dezidierten Podcast zu stellen, ohne dabei an Authentizität zu verlieren.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Durch ihre transparente Vorgehensweise und erfolgreiches Networking schaffen sie es stets den Zuhörenden den Eindruck einer für sie personalisierten Episode zu vermitteln. Ihr innovativer Ansatz ermöglicht es ihnen Paradigmen zu hinterfragen und dem Zeitgeist gerecht zu werden.
