@@ -16,8 +16,8 @@
 title: Lüüchtbrot Podcast
 email: lüüchtbroot@notexist.org
 description: > # this means to ignore newlines until "baseurl:"
-  Die getoastete Erleuchtung für ihr Podcastvergnügen.
-  Hören Sie hinein und toasten Sie ihre Blinkenlights.
+  Die getoastete Erleuchtung für dein Podcastvergnügen.
+  Höre hinein und toaste deine Blinkenlights.
 baseurl: ""
 #baseurl: "/lüüchtbrot.ch" # the subpath of your site, e.g. /blog
 url: "http://www.lüüchtbrot.ch" # the base hostname & protocol for your site, e.g. http://example.com
