@@ -16,7 +16,7 @@
 title: Lüüchtbrot Podcast
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Die getoastete erleuchtung für ihr Podcast vergnügen.
+  Die getoastete Erleuchtung für ihr Podcast Vergnügen.
   Hören Sie hinein und toasten Sie ihre Blinkenlights.
 baseurl: ""
 #baseurl: "/lüüchtbrot.ch" # the subpath of your site, e.g. /blog
