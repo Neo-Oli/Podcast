@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lüüchtbrot Podcast
-email: your-email@domain.com
+email: lüüchtbroot@notexist.org
 description: > # this means to ignore newlines until "baseurl:"
-  Die getoastete Erleuchtung für ihr Podcast Vergnügen.
+  Die getoastete Erleuchtung für ihr Podcastvergnügen.
   Hören Sie hinein und toasten Sie ihre Blinkenlights.
 baseurl: ""
 #baseurl: "/lüüchtbrot.ch" # the subpath of your site, e.g. /blog
-url: "http://podcast.glow.li" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "http://www.lüüchtbrot.ch" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lueuechtbrot
 github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 #theme: minima
 
-subtitle:       "your-podcast-subtitle"
+subtitle:       "toast your blinkenlights"
 lang:           de
-author:         toasterson and Glow
+author:         toasterson and glow
 copyright: "&#x2117; &amp; &#xA9; 2017"
