@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Vom Ende des Regenbogens auf einem pinkfarbenen Einhorn in unsere Realität geritten um unser Blickfeld zu erweitern, erleuchten sie uns mit ihren getoasteten Erkenntnissen.
+Vom Ändi vom Rägeboge ufeme pinkfarbige Eihorn i üsi Realität grytte für üses Blickfäud z'erwitere, erlüchte si üs mit ihrne toastete Erkenntniss. 
 
-Oliver Schmidhauser und Till Wegmüller haben das richtige Mindset um sich der Herausforderung eines dezidierten Podcast zu stellen, ohne dabei an Authentizität zu verlieren.
+Der glow und der toasterson hei z'richtige Mindset um sech der Useforderig vomene dezidierte Podcast z'steue, ohni derbi a Authentizität z'verlüre. 
 
-Durch ihre transparente Vorgehensweise und erfolgreiches Networking schaffen sie es stets den Zuhörenden den Eindruck einer für sie personalisierten Episode zu vermitteln. Ihr innovativer Ansatz ermöglicht es ihnen Paradigmen zu hinterfragen und dem Zeitgeist gerecht zu werden.
+Dür ihri transparenti Vorgehenswiis und erfougrichs Networking schaffe sis ging de Zuelosende der Idruck vonere für sie personalisierte Episode z'vermittle. Ihre innovativ Asatz ermöglichts ihne Paradigme z hinterfrage und em Ziitgeist grächt z'wärde. 
