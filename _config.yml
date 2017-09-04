@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Höre hinein und toaste deine Blinkenlights.
 baseurl: ""
 #baseurl: "/lüüchtbrot.ch" # the subpath of your site, e.g. /blog
-url: "http://www.lüüchtbrot.ch" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xn--lchtbrot-65aa.ch" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lueuechtbrot
 github_username:  jekyll
 
